@@ -1,0 +1,32 @@
+https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23
+
+https://square.github.io/retrofit/
+
+https://www.vogella.com/tutorials/Retrofit/article.html
+
+
+https://www.londonappdeveloper.com/consuming-a-json-rest-api-in-android/
+
+
+https://flutter.dev/docs/get-started/editor
+
+
+https://developer.android.com/training/volley/requestqueue.html
+
+
+File -> setting  -> Appearence & Behavior ->Android SDK -> SDK Tool -->Google USB Driver
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/white" />
+
+    <!-- You can insert your own image assets here -->
+    <!-- <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/launch_image" />
+    </item> -->
+</layer-list>
